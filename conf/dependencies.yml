@@ -1,0 +1,4 @@
+self: play -> coval 0.1
+
+require:
+    - play
